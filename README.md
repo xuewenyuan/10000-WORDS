@@ -17,6 +17,6 @@
 - [S2E3](https://github.com/xuewenyuan/10000-WORDS/blob/master/season2/S2E3.md)
 - [S2E4](https://github.com/xuewenyuan/10000-WORDS/blob/master/season2/S2E4.md)
 
-有道云笔记[链接](http://note.youdao.com/noteshare?id=b8a6ee57f8af619f2a3615e71157ea57)(可直接导出PDF版本)
+有道云笔记[链接](http://note.youdao.com/noteshare?id=5ff0c8a7e87e4f1493549926e8ba3dc3)(可直接导出PDF版本)
 
 **仅供个人交流学习，禁止商用。如若引用，请标明出处。**
